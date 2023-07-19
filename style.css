@@ -294,19 +294,19 @@ margin-bottom: 15px;
 .u_box{
     width: 100%;
     height: 85%;
-   background-image: url('images/Rectangle\ 4.png');
+   background-image: url('./images/Rectangle\ 4.png');
     background-repeat: no-repeat;
     background-size: cover; 
 }
 
 .u_box2{
-    background-image: url('images/Rectangle\ 5.png');
+    background-image: url('./images/Rectangle\ 5.png');
 }
 .u_box3{
-    background-image: url('images/Rectangle\ 6.png');
+    background-image: url('./images/Rectangle\ 6.png');
 }
 .u_box4{
-    background-image: url('images/Rectangle\ 7.png');
+    background-image: url('./images/Rectangle\ 7.png');
 }
 
 .f{

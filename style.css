@@ -101,12 +101,10 @@
 .b_para {
     width: auto;
     height: auto;
-    /* background-color: red; */
 }
 
 .m_head {
     color: #0B0223;
-    /* text-align: center; */
     font-size: 48px;
     font-style: normal;
     font-weight: 600;
